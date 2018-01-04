@@ -2,3 +2,4 @@ Sample doc in trunk
 Bug fixes are completed! now scheduling for release
 branch
 tag
+branch2
